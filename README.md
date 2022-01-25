@@ -7,5 +7,5 @@
 
 ## Model
 * 논문 내 모델 구현
-* '''Tensorflow''' 사용
+* ```Tensorflow``` 사용
 * 
