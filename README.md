@@ -3,7 +3,8 @@
 * 
 
 ## Data
-* 
+* Click [here] (https://github.com/e9t/nsmc)
+** d
 
 ## Model
 * 논문 내 모델 구현
