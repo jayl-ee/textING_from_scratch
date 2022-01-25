@@ -27,8 +27,10 @@
 ```
 Classify('진짜 재미없다.')
 [진짜 재미없다.] is a NEGATIVE review !!
+
 Classify('영화가 너무 재미있었어요!')
 [영화가 너무 재미있었어요!] is a POSITIVE review !!
+
 Classify('재미있는 것 같기도 하고, 재미 없는 것 같기도 하고, 적당했어요.')
 [재미있는 것 같기도 하고, 재미 없는 것 같기도 하고, 적당했어요.] is a POSITIVE review !!
 ```
