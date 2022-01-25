@@ -1,6 +1,6 @@
 # Every Document Owns Its Structure: Inductive Text Classification via Graph Neural Networks (textING)
 * 논문 링크: <https://arxiv.org/pdf/2004.13826v2.pdf>
-* 
+
 
 ## Data
 * Click [here] (https://github.com/e9t/nsmc)
@@ -12,7 +12,6 @@
 - ```document```:Actual review
 - ```label```: The sentiment class of the review (0: negative, 1: positive)
 
-
 ## Model
 * 논문 내 모델 구현
 * ```Tensorflow``` 사용
@@ -21,7 +20,8 @@
 * ```Mecab``` 사용
 ```!set -x \
 && pip install konlpy \
-&& curl -s https://raw.githubusercontent.com/konlpy/konlpy/master/scripts/mecab.sh | bash -x ```
+&& curl -s https://raw.githubusercontent.com/konlpy/konlpy/master/scripts/mecab.sh | bash -x 
+```
 
 ## Result
 ```Classify('진짜 재미없다.')
